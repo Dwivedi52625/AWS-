@@ -1,2 +1,2 @@
 # AWS-
-I had take few of the test related to aws
+I had taken few of the test related to aws
